@@ -50,7 +50,5 @@ public class P9653 {
         for(int i = 0;i < t;i++){
             solve();
         }
-        List<Integer> list;
-        list.
     }
 }
